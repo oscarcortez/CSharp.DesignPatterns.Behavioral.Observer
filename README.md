@@ -1,5 +1,7 @@
 # CSharp.DesignPatterns.Behavioral.Observer
 
+Extracted from: https://exceptionnotfound.net/observer-pattern-in-csharp/
+
 Un objeto en cuestion sabe que otros objetos lo observan
 Cuando hay algun cambio de estado en el objeto, los observadores son notificados automaticamente
 
