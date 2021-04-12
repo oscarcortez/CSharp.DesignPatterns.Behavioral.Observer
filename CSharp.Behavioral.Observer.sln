@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp.Behavioral.Observer", "CSharp.Behavioral.Observer\CSharp.Behavioral.Observer.csproj", "{CAFC5371-8858-428C-B709-BF2C88BE70C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "models", "models\models.csproj", "{74E35B4B-B7AA-4ECC-BCA3-B8657D7C1E9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAFC5371-8858-428C-B709-BF2C88BE70C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAFC5371-8858-428C-B709-BF2C88BE70C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAFC5371-8858-428C-B709-BF2C88BE70C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAFC5371-8858-428C-B709-BF2C88BE70C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74E35B4B-B7AA-4ECC-BCA3-B8657D7C1E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E35B4B-B7AA-4ECC-BCA3-B8657D7C1E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E35B4B-B7AA-4ECC-BCA3-B8657D7C1E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E35B4B-B7AA-4ECC-BCA3-B8657D7C1E9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A15958D-3804-43A6-A753-339EB4998952}
+	EndGlobalSection
+EndGlobal
